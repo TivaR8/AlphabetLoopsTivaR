@@ -1,0 +1,10 @@
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\bin\Debug\AlphabetLoopsTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\bin\Debug\AlphabetLoopsTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\bin\Debug\AlphabetLoopsTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\obj\Debug\AlphabetLoopsTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\obj\Debug\AlphabetLoopsTivaR.frmAlphabetLoops.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\obj\Debug\AlphabetLoopsTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\obj\Debug\AlphabetLoopsTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\obj\Debug\AlphabetLoopsTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\obj\Debug\AlphabetLoopsTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\AlphabetLoopsTivaR\AlphabetLoopsTivaR\obj\Debug\AlphabetLoopsTivaR.pdb
